@@ -4,7 +4,7 @@ import "antd/dist/antd.css";
 import "./index.css";
 import { TreeSelect, Button } from "antd";
 import allUnitData from "./data";
-import chooseData from "/data2";
+import chooseData from "./data2";
 
 const { SHOW_PARENT } = TreeSelect;
 
